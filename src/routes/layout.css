@@ -1,0 +1,4 @@
+@import 'tailwindcss';
+.phone-safe-area {
+	background: linear-gradient(180deg, rgba(0,0,0,0.02), rgba(0,0,0,0.01));
+}
